@@ -1,5 +1,5 @@
 ```console
-$ whois julianolf
+~ $ whois julianolf
 
 % This query returned 1 object
 
