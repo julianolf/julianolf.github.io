@@ -25,8 +25,14 @@
         {% if site.social %}
         <p class="view">
           {% for entry in site.social %}
-          {% if forloop.index != 1 %} &middot; {% endif %}
-          <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
+          {% if forloop.index != 1 %}&nbsp;{% endif %}
+          <a href="{{ entry.url }}" target="_blank">
+          {% if entry.icon %}
+            <img src="{{entry.icon | relative_url}}" alt="{{ entry.name }} icon" />
+          {% else %}
+            {{ entry.name }}
+          {% endif %}
+          </a>
           {% endfor %}
         </p>
         {% endif %}
