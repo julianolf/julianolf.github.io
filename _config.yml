@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: julianolf
-description: software developer · gamer · human
+description: developer · gamer · human
+social:
+  -
+    name: github
+    url: https://github.com/julianolf
+  -
+    name: twitter
+    url: https://twitter.com/julianolf
+  -
+    name: linkedin
+    url: https://www.linkedin.com/in/julianolf
