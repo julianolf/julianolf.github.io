@@ -1,4 +1,4 @@
-```
+```console
 $ whois julianolf
 
 % This query returned 1 object
