@@ -7,11 +7,11 @@ layout: default
 
 % This query returned 1 object
 
-name: Juliano L. Fernandes
+name: Juliano Fernandes
 address: Curitiba PR
 country: Brazil
 profession: Software developer
 organisation: None
-status: Sabbatical year
-hobbies: Video games, skateboarding, climbing
+status: Looking for a job
+hobbies: Video games, climbing, skateboarding
 ```
