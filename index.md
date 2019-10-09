@@ -11,7 +11,7 @@ name: Juliano Fernandes
 address: Curitiba PR
 country: Brazil
 profession: Software developer
-organisation: None
-status: Looking for a job
+organisation: https://noverde.com.br
+status: Working from home
 hobbies: Video games, climbing, skateboarding
 ```
